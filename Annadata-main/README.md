@@ -1,8 +1,8 @@
-# 🌾 Annadata-New
+# 🌾 Farmer Connect
 
 > Empowering the next generation of farmers with modern agricultural solutions
 
-Annadata-New is a powerful mobile application designed to bridge the gap between traditional farming wisdom and modern technology. Our platform provides young farmers with region-specific agricultural information, seasonal insights, and essential resources through an intuitive, mobile-first interface.
+Farmer Connect is a powerful mobile application designed to bridge the gap between traditional farming wisdom and modern technology. Our platform provides young farmers with region-specific agricultural information, seasonal insights, and essential resources through an intuitive, mobile-first interface.
 
 ![Farming Technology](https://raw.githubusercontent.com/yourusername/annadata-new/main/docs/banner.png)
 
